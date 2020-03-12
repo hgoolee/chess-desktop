@@ -2,6 +2,7 @@ package util;
 
 /*
  * Only Stopwatch is enabled at this moment.
+ * Other features will soon be added.
  */
 
 public class Preferences {
