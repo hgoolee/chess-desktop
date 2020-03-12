@@ -1,5 +1,9 @@
 package util;
 
+/*
+ * Only Stopwatch is enabled at this moment.
+ */
+
 public class Preferences {
 
     public enum GameMode {
