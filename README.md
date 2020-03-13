@@ -1,7 +1,8 @@
 # Chess for Desktop
-![](/images/Chess%20for%20Desktop_Main.png)
 * This is a chess game which can be played on desktop (both on Windows and Mac OS X). This program has been developed by *Java Swing* GUI.
 * This game follows the standard chess rule (FIDE Laws of Chess). Please refer to [FIDE Handbook](https://handbook.fide.com/) for detailed information on up-to-date rules.
+
+![](/images/Chess%20for%20Desktop_Main.png)
 
 
 ## Table of contents
@@ -74,7 +75,7 @@ For IntelliJ IDEA users, refer to [Maven - Help | IntelliJ IDEA - JetBrains](htt
 ## Features
 Here are some introduction on each feature to help you get used to chess. Be sure to read carefully so that you can fully enjoy the game.
 
-Below is a screenshot of the in-game window.
+Below is a screenshot of the In-Game window.
 
 ![](/images/Chess%20for%20Desktop_InGame.png)
 
@@ -147,6 +148,7 @@ To make sure `resource` is working properly, you should set up the project struc
 * Eclipse Neon.3 (4.6.3)
 * Libraries and API used: Java AWT, Java Swing
 * Some parts of this application is based on the source code provided by [Oracle](/LEGAL_NOTICE.txt).
+
 
 ## Additional information
 * [Developer Guide](/DeveloperGuide.md) : Information about how this program is designed
